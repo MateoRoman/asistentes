@@ -3,8 +3,9 @@
 ## Asistentes
 
 ### 1. **POST /api/asistentes**
-**Descrip![image](https://github.com/user-attachments/assets/a7a8d183-430c-4b9d-a893-e06cd7eff89b)
-ción**: Crear un nuevo asistente.
+**Descripción**: Crear un nuevo asistente.
+![image](https://github.com/user-attachments/assets/a7a8d183-430c-4b9d-a893-e06cd7eff89b)
+
 
 ### 2. **GET /api/asistentes**
 **Descripción**: Obtener todos los asistentes.
