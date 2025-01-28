@@ -1,5 +1,6 @@
 # API de Gestión de Eventos y Asistentes
-
+## Contenedor de Docker
+docker run -d --name mysql-examen -e MYSQL_ROOT_PASSWORD=root123 -e MYSQL_DATABASE=sisdb_examen -p 3306:3306 mysql:5.7                                                                                                                                   
 ## Asistentes
 
 ### 1. **POST /api/asistentes**
