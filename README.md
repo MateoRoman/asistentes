@@ -47,6 +47,8 @@
 
 ### 1. **POST /api/eventos/{eventoId}/asistente/{usuarioId}**
 **Descripción**: Asignar un asistente a un evento.
+![image](https://github.com/user-attachments/assets/da36385d-5fc0-4c95-a606-a997b657a94f)
+
 
 ### 2. **GET /api/eventos/{id}/asistentes**
 **Descripción**: Obtener la lista de asistentes para un evento.
